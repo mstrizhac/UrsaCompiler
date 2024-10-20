@@ -1,0 +1,6 @@
+int b = 10;
+int a = 15;
+
+c = a + b;
+
+print(c);

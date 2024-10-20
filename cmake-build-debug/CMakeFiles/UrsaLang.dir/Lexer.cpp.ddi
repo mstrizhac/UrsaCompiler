@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/UrsaLang.dir/Lexer.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

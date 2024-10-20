@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/UrsaLang.dir/Tokens.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

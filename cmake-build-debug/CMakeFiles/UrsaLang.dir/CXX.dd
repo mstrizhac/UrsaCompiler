@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/UrsaLang.dir/main.cpp.o: dyndep
+
+build CMakeFiles/UrsaLang.dir/Lexer.cpp.o: dyndep
+
+build CMakeFiles/UrsaLang.dir/Token.cpp.o: dyndep
+
+build CMakeFiles/UrsaLang.dir/TokenType.cpp.o: dyndep
+
+build CMakeFiles/UrsaLang.dir/TokenInstance.cpp.o: dyndep
+
+build CMakeFiles/UrsaLang.dir/Tokens.cpp.o: dyndep
+
